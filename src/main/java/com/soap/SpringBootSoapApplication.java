@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class SpringBootSoapApplication {
-
+// 	My contribution is this prayer
 //	private static final Logger LOGGER = LoggerFactory.getLogger(SpringBootSoapApplication.class);
 
 	public static void main(String[] args) {
